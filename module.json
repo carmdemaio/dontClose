@@ -2,7 +2,10 @@
     "name": "dontClose",
     "title": "Journal to Canvas Slideshow - Display Journal Art on the Canvas",
     "description": "Prevents the Foundry webpage from navigating away with a confirmation box using JavaScript",
-    "author": "carm@carmdemaio.me",
+    "author": "carm@carmdemaio.me",    
+    "scripts": [
+        "./scripts/dontClose.js"
+    ],
     "version": "0.1",
     "minimumCoreVersion": "0.8.6",
     "url": "https://github.com/carmdemaio/dontClose",
