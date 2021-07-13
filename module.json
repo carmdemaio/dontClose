@@ -9,5 +9,5 @@
     "minimumCoreVersion": "0.8.6",
     "compatibleCoreVersion": "0.8.8",
     "url": "https://github.com/carmdemaio/dontClose",
-    "manifest": "https://github.com/carmdemaio/dontClose/blob/main/module.json"
+    "manifest": "https://github.com/carmdemaio/dontClose/raw/main/module.json"
 }
