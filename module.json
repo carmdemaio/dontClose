@@ -1,6 +1,6 @@
 {
     "name": "dontClose",
-    "title": "Dont Close",
+    "title": "Don't Close",
     "description": "Prevents the Foundry webpage from navigating away with a confirmation box using JavaScript",
     "author": "carm@carmdemaio.me",    
     "scripts": [
