@@ -1,0 +1,13 @@
+{
+    "name": "dontClose",
+    "title": "Dont Close",
+    "description": "Prevents the Foundry webpage from navigating away with a confirmation box using JavaScript",
+    "author": "carm@carmdemaio.me",    
+    "scripts": [
+        "./scripts/dontClose.js"
+    ],
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "0.8.8",
+    "url": "https://github.com/carmdemaio/dontClose",
+    "manifest": "https://github.com/carmdemaio/dontClose/blob/main/module.json"
+}
